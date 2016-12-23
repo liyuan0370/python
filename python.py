@@ -53,7 +53,7 @@ import numpy as np
 
     elif user_input == "1.3":
         qwe= input("Введите числа через пробел:")
-        qwe = lst.split()
+        qwe = qwe.split()
         h = 0
         k = 0
 
