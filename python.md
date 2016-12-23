@@ -5,7 +5,7 @@ import numpy as np
 
 
 
-while True:
+ while True:
 
     print("Добро пожадовать")
     print("Введите '1.1' для вычисления суммы for-циклом")
@@ -66,4 +66,5 @@ while True:
 
 
         print(sum3((len(qwe))))
+        
         
