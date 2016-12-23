@@ -5,7 +5,7 @@ import numpy as np
 
 
 
- while True:
+ hile True:
 
     print("Добро пожадовать")
     print("Введите '1.1' для вычисления суммы for-циклом")
