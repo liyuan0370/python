@@ -67,4 +67,3 @@ import numpy as np
 
         print(sum3((len(qwe))))
         
-        
