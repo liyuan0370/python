@@ -1,3 +1,4 @@
+
 from functools import reduce
 import math
 import matplotlib.pyplot as plt
